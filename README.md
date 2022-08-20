@@ -1,6 +1,6 @@
 ![Welcom](https://user-images.githubusercontent.com/43253719/166149703-4f02ed65-2c90-40c4-8b81-436f621770fb.PNG)
 
-**Note:** this is a coppy of the original repository in the state that it was in when we finnished our senior year.
+**Note:** this is a coppy of the original repository in the state that it was in when I finnished my senior year. The original repository can bee seen [here](https://github.com/tjdcs/Imaging-Art-beyond-RGB) and has/will continue to grow and evolve.
 
 # Imaging-Art-Beyond-RGB-Project
 
